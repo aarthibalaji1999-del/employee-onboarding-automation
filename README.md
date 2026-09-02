@@ -208,6 +208,28 @@ The workflow was tested with sample employee data to validate:
 * The folder ID is passed dynamically to the Child Workflow.
 * The Child Workflow performs the configured Google Drive operation.
 
+## 📸 Screenshots
+
+### n8n Parent Workflow
+
+![Parent Workflow](screenshots/parent-workflow.png)
+
+### n8n Child Workflow
+
+![Child Workflow](screenshots/child-workflow.png)
+
+### Google Drive Employee Folder
+
+![Google Drive Folder](screenshots/google-drive-folder.png)
+
+### Google Docs Onboarding Document
+
+![Google Docs](screenshots/google-docs-onboarding.png)
+
+### Google Sheets Onboarding Data
+
+![Google Sheets](screenshots/google-sheets-onboarding.png)
+
 ## 🚀 Future Improvements
 
 * Add an HR form as the workflow trigger
@@ -258,3 +280,4 @@ This project demonstrates practical experience with:
 * Automated document generation
 * Automated spreadsheet management
 * Workflow testing and validation
+
